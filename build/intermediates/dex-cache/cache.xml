@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\practice\Android-ListDialogExample-master\ListDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\practice\Android-ListDialogExample-master\ListDemo\app\build\intermediates\pre-dexed\debug\classes-9226f905f5e2baac5e8d0cbeb3560b39a4e3e772.jar" />
+    </item>
+    <item
+        jar="D:\practice\Android-ListDialogExample-master\ListDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\practice\Android-ListDialogExample-master\ListDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-c9fb3fe6ca6e1f9ee807628074e7caf23b3c6c8f.jar" />
+    </item>
+    <item
+        jar="D:\practice\Android-ListDialogExample-master\ListDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\practice\Android-ListDialogExample-master\ListDemo\app\build\intermediates\pre-dexed\debug\classes-c54240e1f9987e7e2ff0d38571acf5a021045ea9.jar" />
+    </item>
+    <item
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\practice\Android-ListDialogExample-master\ListDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-2bfa169f9f908cbcbc926d7d43a09696b12a1738.jar" />
+    </item>
+
+</items>
